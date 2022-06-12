@@ -23,14 +23,15 @@
 
 ## 描述
 
-**Tditor，是一款在线Markdown编辑平台**，服务于所有使用Markdown语法进行创作的文字工作者。
+[**Tditor，是一款在线Markdown编辑平台**](https://tditor.com)，服务于所有使用Markdown语法进行创作的文字工作者。
 
 * 使用它，您可以随时随地打开进行创作，而不用担心任何数据安全、隐私问题
 * 使用它，您可以丰富多彩的内容编辑（流程图、Latex公式、五线谱、[TOC]目录等）
 * 使用它，您可以多语言、多主题自由切换，沉浸式体验
 * 使用它，您可以多种形式的文档免费导出（HTML、Markdown、PDF）
-* 使用它，您可以多种形式的文档免费发布（CSDN、公众号、私有云等）
+* 使用它，您可以一键免费发布文档到（CSDN、掘金、公众号、私有云等）
 * 使用它，您可以自定义管理图床、文章、内容样式主题
+* 使用它，您可以方便的复制网页内容转MD
 
 **丰富的功能背后有着怎样的技术支撑呢？**
 
@@ -41,14 +42,20 @@
 
 <br>
 
-**用例展示：**
+## **用例展示：**
 
-登陆后首页：
+### 登陆后首页：
+
 ![image.png](https://b3logfile.com/file/2022/06/image-1cb9e08c.png)
+![image.png](https://b3logfile.com/file/2022/06/image-f257fd98.png)
 
-导出PDF：
+### 导出PDF：
 
 ![image.png](https://b3logfile.com/file/2022/06/image-43b938d6.png)
+
+### 恢复历史：
+
+![image.png](https://b3logfile.com/file/2022/06/image-4a17ad9a.png)
 
 ## FAQ
 
